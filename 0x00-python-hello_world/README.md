@@ -1,0 +1,2 @@
+# Python starts
+* Cool
